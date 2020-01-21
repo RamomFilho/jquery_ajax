@@ -1,2 +1,2 @@
 # jquery_ajax
-Projeto feito em Jquery e Ajax
+Projeto de página para Buscar informações através do CEP utilizando jquery, ajax e bootstrap.
